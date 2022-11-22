@@ -1,7 +1,7 @@
 [![Header](https://github.com/f7one/f7one/blob/main/assets/header.png)](https://www.embacy.io/)
 
 ## About me
-Building websites and web apps, exploring blocchains and testing stuff. If you have something in mind, DM me at nz@embacy.io 😉
+Building websites and web apps, exploring blockchains and testing stuff. If you have something in mind, DM me at nz@embacy.io 😉
 
 ### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
